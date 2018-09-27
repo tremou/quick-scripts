@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- 
-#Statistics for fits files. 
+#Beam info (radio image). 
 
 import argparse
 import math
