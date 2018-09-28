@@ -8,4 +8,4 @@ Prints the beam information in arcseconds of a radio image (produced by AIPS, CA
 
 $ stats.py "Image.fits"
 
-Prints quick statistics of a fits image such as rms, max, min. 
+Prints quick statistics of a fits image such as rms, max, min, etc... 
