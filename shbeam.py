@@ -21,4 +21,4 @@ parser.print_help()
 
 header = fits.getheader(args.infile)
 my_beam = Beam.from_fits_header(header)
-print my_beam
+print (my_beam)
