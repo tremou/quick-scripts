@@ -32,9 +32,9 @@ rms= np.std(data)
 #im=casacore.images.image(args.infile)
 #casacore_stat=im.statistics()
 
-print "RMS =", rms, "Jy/beam"
-print "MAX =", max, "Jy/beam"    
-print "MIN =", min, "Jy/beam"        
+print ("RMS =", rms, "Jy/beam")
+print ("MAX =", max, "Jy/beam")    
+print ("MIN =", min, "Jy/beam" )       
 #print "casacore stats:", casacore_stat 
         
 
