@@ -4,7 +4,7 @@
 
 $ shbeam.py "Image.fits"   
 
-Prints the beam information in arcseconds of a radio image (produced by AIPS, CASA, etc..). 
+Prints the synthesized beam information in arcseconds of a radio image (produced by AIPS, CASA, etc..). 
 
 $ stats.py "Image.fits"
 
